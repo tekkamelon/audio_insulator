@@ -6,7 +6,7 @@ difference(){
 
 	translate([0, 0, 5]){
 
-		cylinder(h=5, r=9.5);
+		cylinder(h=5, r=10.5);
 
 	}
 
